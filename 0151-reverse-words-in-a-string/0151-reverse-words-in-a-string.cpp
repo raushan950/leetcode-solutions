@@ -4,16 +4,20 @@ public:
         stringstream ss(s);
         string ans="";
         string word;
+        stack<string>st;
         while(ss>>word){
-            if(ans.empty()){
-                ans=word;
-            }else{
-                ans=word+" "+ans;
+            st.push(word);
 
-            }
-            
+
+        }
+        while(!st.empty()){
+            ans+=st.top();
+            st.pop();
+            if(!st.empty())
+            ans+=" ";
         }
         return ans;
+       
         
 
 
