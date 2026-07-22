@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/raushan950/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/raushan950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Bit Manipulation
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -103,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
