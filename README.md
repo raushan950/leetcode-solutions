@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/raushan950/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raushan950/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/raushan950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raushan950/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
