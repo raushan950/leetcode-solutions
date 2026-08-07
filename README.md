@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raushan950/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/raushan950/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/raushan950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raushan950/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/raushan950/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/raushan950/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/raushan950/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/raushan950/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
