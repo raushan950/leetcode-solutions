@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/raushan950/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raushan950/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/raushan950/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/raushan950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/raushan950/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raushan950/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/raushan950/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/raushan950/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/raushan950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
