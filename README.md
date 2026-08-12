@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/raushan950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/raushan950/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/raushan950/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/raushan950/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/raushan950/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/raushan950/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/raushan950/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/raushan950/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/raushan950/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/raushan950/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raushan950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/raushan950/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/raushan950/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
