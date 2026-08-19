@@ -261,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/raushan950/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [1407-top-travellers](https://github.com/raushan950/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/raushan950/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
