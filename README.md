@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/raushan950/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/raushan950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -265,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raushan950/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
