@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/raushan950/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [1407-top-travellers](https://github.com/raushan950/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/raushan950/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
