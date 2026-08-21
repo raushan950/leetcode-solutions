@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/raushan950/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/raushan950/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/raushan950/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [1407-top-travellers](https://github.com/raushan950/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
