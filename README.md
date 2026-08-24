@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/raushan950/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/raushan950/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/raushan950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/raushan950/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/raushan950/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
