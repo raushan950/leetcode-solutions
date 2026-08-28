@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/raushan950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/raushan950/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Memoization
@@ -282,10 +283,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raushan950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/raushan950/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raushan950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/raushan950/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -294,5 +297,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raushan950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/raushan950/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
