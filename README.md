@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/raushan950/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raushan950/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/raushan950/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raushan950/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/raushan950/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
