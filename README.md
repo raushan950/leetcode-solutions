@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/raushan950/leetcode-solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/raushan950/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0868-binary-gap](https://github.com/raushan950/leetcode-solutions/tree/main/0868-binary-gap/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/raushan950/leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
