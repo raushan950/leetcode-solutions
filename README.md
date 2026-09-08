@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/raushan950/leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/raushan950/leetcode-solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/raushan950/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0868-binary-gap](https://github.com/raushan950/leetcode-solutions/tree/main/0868-binary-gap/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
