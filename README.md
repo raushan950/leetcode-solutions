@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/raushan950/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raushan950/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/raushan950/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/raushan950/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/raushan950/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/raushan950/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/raushan950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/raushan950/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/raushan950/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/raushan950/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -332,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/raushan950/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/raushan950/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
