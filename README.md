@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushan950/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
