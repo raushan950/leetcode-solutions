@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/raushan950/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/raushan950/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raushan950/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raushan950/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/raushan950/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/raushan950/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/raushan950/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/raushan950/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raushan950/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/raushan950/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/raushan950/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Bit Manipulation
