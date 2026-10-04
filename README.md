@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/raushan950/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/raushan950/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/raushan950/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/raushan950/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/raushan950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/raushan950/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/raushan950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/raushan950/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/raushan950/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/raushan950/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/raushan950/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/raushan950/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/raushan950/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/raushan950/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/raushan950/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/raushan950/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
