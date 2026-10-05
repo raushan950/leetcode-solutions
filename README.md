@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/raushan950/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushan950/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/raushan950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/raushan950/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,4 +361,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
