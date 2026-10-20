@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raushan950/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raushan950/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/raushan950/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2865-beautiful-towers-i](https://github.com/raushan950/leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raushan950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raushan950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/raushan950/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/raushan950/leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/raushan950/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/raushan950/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/raushan950/leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
