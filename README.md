@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/raushan950/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/raushan950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [2409-count-days-spent-together](https://github.com/raushan950/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushan950/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/raushan950/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/raushan950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/raushan950/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/raushan950/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/raushan950/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/raushan950/leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raushan950/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raushan950/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/raushan950/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
