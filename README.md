@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/raushan950/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raushan950/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raushan950/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raushan950/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/raushan950/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/raushan950/leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raushan950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/raushan950/leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raushan950/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raushan950/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raushan950/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raushan950/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raushan950/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Recursion
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raushan950/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raushan950/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raushan950/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raushan950/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/raushan950/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
